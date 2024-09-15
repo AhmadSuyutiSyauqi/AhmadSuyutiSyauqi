@@ -1,16 +1,10 @@
 Hi! 👋 I'm Uki.
 
-an Frontend Developer with 2+ years of experience in building web applications. Currently a 5th-year Computer Science student, eager to learn and grow. Proficient in React, JavaScript, and CSS.
+I`am an Curriculum Developer at Dicoding, specializing in Mobile development.
 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Holding a Specialization in Mobile App Development certification from the University of Dr. Soetomo Surabaya and a Google Associate Android Developer certification since 2019, I am committed to delivering high-quality Mobile learning materials.
 
-<!---
-AhmadSuyutiSyauqi/AhmadSuyutiSyauqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/ahmadsuyutisyauqi/) account.
 
 ### Github Statistic
 <p align="left">
