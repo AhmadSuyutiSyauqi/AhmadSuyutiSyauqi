@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @AhmadSuyutiSyauqi
+Hi! 👋 I'm Uki.
+
+an Frontend Developer with 2+ years of experience in building web applications. Currently a 5th-year Computer Science student, eager to learn and grow. Proficient in React, JavaScript, and CSS.
+
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
