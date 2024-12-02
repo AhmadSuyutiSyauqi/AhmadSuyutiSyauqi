@@ -1,8 +1,6 @@
 Hi! 👋 I'm Uki.
 
-I`am an Curriculum Developer at Dicoding, specializing in Mobile development.
-
-Holding a Specialization in Mobile App Development certification from the University of Dr. Soetomo Surabaya and a Google Associate Android Developer certification since 2019, I am committed to delivering high-quality Mobile learning materials.
+I am a Frontend Developer who focuses on website development. Currently learning and developing skills at Bangkit Academy, Cohort MD.
 
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/ahmadsuyutisyauqi/) account.
 
